@@ -60,9 +60,11 @@ print(x)
 
 ## Output:
 (i)L and U matrix
-![Screenshot (38)](https://github.com/user-attachments/assets/8c0c6489-ecae-4eb4-9179-fe96e0f4e51b)
+![Screenshot 2025-05-16 195238](https://github.com/user-attachments/assets/3c2bb788-4e64-45ec-9fa3-51f67a29bdbe)
+
 (ii)LU Decomposition of a matrix
-![Screenshot (38)](https://github.com/user-attachments/assets/08e2e2da-e6e9-4a4f-9dbb-e8989755a61c)
+![Screenshot 2025-05-16 195251](https://github.com/user-attachments/assets/93ceee96-efc9-46ca-8b83-00cea9a9322e)
+
 
 
 
